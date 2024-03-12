@@ -1,0 +1,33 @@
+{
+    "workout_plan": {
+        "description": "This workout plan is designed for intermediate users focusing on strength exercises for the push muscle groups, specifically targeting the chest and triceps. It follows a push, pull, legs split routine, with today's focus on the push day.",
+        "exercises": [
+            {
+                "name": "Bench Press",
+                "type": "strength",
+                "target_muscle": [
+                    "Chest",
+                    "Triceps"
+                ],
+                "description": "The bench press is a classic compound exercise that targets the chest, shoulders, and triceps. It is performed by lying on a bench and pushing the weight upwards using your chest and triceps."
+            },
+            {
+                "name": "Tricep Dips",
+                "type": "strength",
+                "target_muscle": [
+                    "Triceps"
+                ],
+                "description": "Tricep dips are a bodyweight exercise that strengthen and tone the triceps. They are performed by supporting your bodyweight on parallel bars and lowering your body by bending your elbows."
+            },
+            {
+                "name": "Incline Dumbbell Press",
+                "type": "strength",
+                "target_muscle": [
+                    "Upper Chest",
+                    "Triceps"
+                ],
+                "description": "The incline dumbbell press targets the upper chest and triceps. It is performed on an incline bench using dumbbells, focusing on the upper portion of the chest."
+            }
+        ]
+    }
+}
