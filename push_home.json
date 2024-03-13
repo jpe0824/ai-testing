@@ -1,0 +1,34 @@
+{
+    "workout_name": "Push Day",
+    "notes": "This workout plan focuses on chest, triceps, and shoulders using a home gym setup with bench and dumbbells. It is designed for an intermediate level individual aiming to improve strength and muscle development.",
+    "exercises": [
+        {
+            "name": "Bench Press",
+            "type": "strength",
+            "muscle": "chest",
+            "equipment": "bench, dumbbells",
+            "description": "The bench press is a fundamental exercise for building upper body strength, particularly targeting the chest muscles."
+        },
+        {
+            "name": "Incline Bench Press",
+            "type": "strength",
+            "muscle": "chest",
+            "equipment": "bench, dumbbells",
+            "description": "Incline bench press helps to emphasize the upper chest muscles and complements the regular bench press for a well-rounded chest workout."
+        },
+        {
+            "name": "Tricep Dips",
+            "type": "strength",
+            "muscle": "triceps",
+            "equipment": "bench",
+            "description": "Tricep dips are an effective bodyweight exercise for targeting the triceps. It can be done using a bench for added resistance."
+        },
+        {
+            "name": "Dumbbell Lateral Raises",
+            "type": "strength",
+            "muscle": "shoulders",
+            "equipment": "dumbbells",
+            "description": "Lateral raises are great for isolating and strengthening the side deltoid muscles, helping to improve shoulder width and definition."
+        }
+    ]
+}

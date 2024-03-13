@@ -1,0 +1,41 @@
+{
+    "workout_name": "Push Day",
+    "notes": "This workout plan is designed for an intermediate male individual aiming to target chest, triceps, and shoulders using gym equipment.",
+    "exercises": [
+        {
+            "name": "Barbell Bench Press",
+            "type": "Strength",
+            "muscle": "Chest",
+            "equipment": "Barbell, Bench",
+            "description": "The barbell bench press is a compound exercise that targets the chest, shoulders, and triceps. Make sure to maintain proper form throughout the movement."
+        },
+        {
+            "name": "Incline Dumbbell Press",
+            "type": "Strength",
+            "muscle": "Chest",
+            "equipment": "Dumbbells, Bench",
+            "description": "The incline dumbbell press helps in targeting the upper chest muscles. Focus on controlled movements and squeeze at the top of the movement."
+        },
+        {
+            "name": "Tricep Dips",
+            "type": "Strength",
+            "muscle": "Triceps",
+            "equipment": "Parallel Bars",
+            "description": "Tricep dips are great for targeting the triceps. Keep your body upright and focus on using your triceps to lift your body weight."
+        },
+        {
+            "name": "Overhead Dumbbell Press",
+            "type": "Strength",
+            "muscle": "Shoulders",
+            "equipment": "Dumbbells",
+            "description": "The overhead dumbbell press targets the shoulders and helps in building shoulder strength. Make sure to use a weight that you can control."
+        },
+        {
+            "name": "Lateral Raises",
+            "type": "Strength",
+            "muscle": "Shoulders",
+            "equipment": "Dumbbells",
+            "description": "Lateral raises are great for targeting the side deltoids. Keep a slight bend in your elbows and lift the dumbbells to shoulder height."
+        }
+    ]
+}

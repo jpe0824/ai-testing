@@ -1,0 +1,42 @@
+{
+    "workout_plan": {
+        "description": "This workout plan is designed for beginners who want to focus on gaining muscle and losing weight through weightlifting. The workout will target the upper body and can be completed within 1 hour using equipment available at a Planet Fitness gym.",
+        "exercises": [
+            {
+                "name": "Bench Press",
+                "type": "strength",
+                "target_muscle": "chest, shoulders, triceps",
+                "equipment": "barbell, bench",
+                "description": "Lie on a flat bench and lift the bar with weights above your chest, then lower it down to chest level and push it back up."
+            },
+            {
+                "name": "Lat Pulldown",
+                "type": "strength",
+                "target_muscle": "back, biceps",
+                "equipment": "lat pulldown machine",
+                "description": "Sit down at the lat pulldown machine, grab the bar with an overhand grip, and pull it down towards your chest, then slowly release it back up."
+            },
+            {
+                "name": "Dumbbell Shoulder Press",
+                "type": "strength",
+                "target_muscle": "shoulders",
+                "equipment": "dumbbells",
+                "description": "Stand upright and hold a dumbbell in each hand at shoulder height, then push the dumbbells overhead until your arms are fully extended, and lower them back down."
+            },
+            {
+                "name": "Tricep Dips",
+                "type": "strength",
+                "target_muscle": "triceps",
+                "equipment": "dip station",
+                "description": "Hold onto parallel bars, lower your body by bending your elbows until they are at a 90-degree angle, then push yourself back up to the starting position."
+            },
+            {
+                "name": "Treadmill Cardio",
+                "type": "cardio",
+                "target_muscle": "whole body",
+                "equipment": "treadmill",
+                "description": "Warm up or finish the workout with a 20-minute treadmill session at a moderate intensity to burn extra calories and improve cardiovascular health."
+            }
+        ]
+    }
+}

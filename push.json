@@ -1,0 +1,48 @@
+{
+    "workout_plan": {
+        "workout_name": "Push Day",
+        "exercises": [
+            {
+                "name": "Bench Press",
+                "type": "strength",
+                "target_muscle": "chest",
+                "equipment": "barbell",
+                "description": "Lie on a flat bench, grip the barbell and lower it to your chest, then push it back up. This exercise targets the chest, shoulders, and triceps.",
+                "notes": "Perform 4 sets of 8-10 reps with a challenging weight."
+            },
+            {
+                "name": "Incline Bench Press",
+                "type": "strength",
+                "target_muscle": "chest",
+                "equipment": "barbell",
+                "description": "Lie on an incline bench and perform the bench press motion. This exercise targets the upper chest, shoulders, and triceps.",
+                "notes": "Perform 3 sets of 8-12 reps at a moderate weight."
+            },
+            {
+                "name": "Dumbbell Shoulder Press",
+                "type": "strength",
+                "target_muscle": "shoulders",
+                "equipment": "dumbbells",
+                "description": "Sit on a bench with dumbbells at shoulder height, press them overhead. This exercise targets the shoulders and triceps.",
+                "notes": "Perform 3 sets of 10-12 reps with controlled form."
+            },
+            {
+                "name": "Tricep Dips",
+                "type": "strength",
+                "target_muscle": "triceps",
+                "equipment": "parallel bars",
+                "description": "Hold onto parallel bars, lower your body by bending your elbows and then push back up. This exercise targets the triceps.",
+                "notes": "Perform 3 sets of 12-15 reps with full range of motion."
+            },
+            {
+                "name": "Rope Tricep Pushdown",
+                "type": "strength",
+                "target_muscle": "triceps",
+                "equipment": "cable machine",
+                "description": "Attach a rope to a cable machine, push it down while keeping elbows close to your body. This exercise isolates the triceps.",
+                "notes": "Perform 3 sets of 15-20 reps with a moderate weight."
+            }
+        ],
+        "helpful_notes": "Make sure to warm up properly before starting the workout. Focus on controlled movements and proper form to avoid injury. Stay hydrated during the workout and push yourself to reach muscle fatigue within the recommended rep ranges."
+    }
+}

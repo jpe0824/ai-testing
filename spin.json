@@ -1,0 +1,27 @@
+{
+    "summary": "Push Day workout plan designed to help build muscle and strength, targeting chest, triceps, and shoulders. Duration: 1 hour.",
+    "exercises": [
+        {
+            "name": "Flat Bench Press",
+            "type": "strength",
+            "target muscles": [
+                "chest",
+                "triceps",
+                "shoulders"
+            ],
+            "equipment": "gym",
+            "description": "Perform a bench press on a flat bench, targeting the chest, triceps, and shoulders. Focus on proper form and controlled movements."
+        },
+        {
+            "name": "Incline Bench Press",
+            "type": "strength",
+            "target muscles": [
+                "chest",
+                "triceps",
+                "shoulders"
+            ],
+            "equipment": "gym",
+            "description": "Perform a bench press on an incline bench, targeting the upper chest, triceps, and shoulders. Adjust the bench angle for desired difficulty."
+        }
+    ]
+}
